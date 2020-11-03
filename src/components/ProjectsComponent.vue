@@ -55,7 +55,7 @@
              </li>
 
             <li style="padding: 5px;">
-             <h4> Trending News App : Desktop App</h4>
+             <h4> Trending News App : Desktop Application</h4>
 
              <p style="padding-top: 0px;"><strong>Stacks</strong>: Python, Tkinter, BeautifulSoup
                 (<a href="https://github.com/Shahibur66/Trending-News-App" target="_blank">GitHub</a>)</p>
@@ -63,7 +63,7 @@
              </li>
 
             <li style="padding: 5px;">
-             <h4> File Separator App : Desktop App</h4>
+             <h4> File Separator App : Desktop Application</h4>
 
              <p style="padding-top: 0px;"><strong>Stacks</strong>: Python, Python-Tkinter
                 (<a href="https://github.com/Shahibur66/File-Separator-App" target="_blank">GitHub</a>)</p>
@@ -71,7 +71,7 @@
              </li>
 
             <li style="padding: 5px;">
-             <h4>High School Management System : Desktop App</h4>
+             <h4>High School Management System : Desktop Application</h4>
 
              <p style="padding-top: 0px;"><strong>Stacks</strong>: Java Swing, MySql
                 (<a href="https://github.com/Shahibur66/High-School-Management-System" target="_blank">GitHub</a>)</p>
