@@ -1,10 +1,6 @@
 <template>
   <div id="app">
-    <!-- <div id="nav">
-      <router-link to="/">Home</router-link> |
-      <router-link to="/projects">Projects</router-link> |
-      <router-link to="/contact">Contact</router-link>
-    </div> -->
+    
             <div class="header">
           <img class="circular--square" src="./assets/profile.jpg" style="width:140px;" alt="Shahibur Profile Picture">
           <h1 class="profile-name">Md. Shahibur Rahman</h1>

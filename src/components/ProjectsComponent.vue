@@ -18,36 +18,36 @@
              </li>
 
             <li style="padding: 5px;">
-              <h4> Swap : E-Commerce Web Application</h4>
+              <h4> <a href="http://swapdemo.pythonanywhere.com/" target="_blank">Swap : E-Commerce Web Application</a></h4>
              <p style="padding-top: 0px;"><strong>Live demo</strong> : Deployed on pythonanywhere
-                (<a href="http://swapdemo.pythonanywhere.com/" target="_blank">Swap Ecommerce Demo</a>)</p>
+                (<a href="http://swapdemo.pythonanywhere.com/" target="_blank">Swap Ecommerce</a>)</p>
              <p ><strong>Stacks</strong>: Python, Flask, SQLAlchemy, Stripe Payment, Flask-mail, JavaScript, HTML, Bootstrap 4, SCSS, CSS.
                 (<a href="https://tinyurl.com/y57khzy4" target="_blank">GitHub</a>)</p>
              </li>
 
 
             <li style="padding: 5px;">
-              <h4> Instant Translator Chatbot : Telegram Chatbot</h4>
+              <h4> <a href="https://github.com/Shahibur66/Instant-Translator-Bot" target="_blank">Instant Translator Chatbot : Telegram Chatbot</a></h4>
              <p style="padding-top: 0px;"><strong>Stacks</strong>: Python, Google text translator APIs, Telegram APIs
                 (<a href="https://github.com/Shahibur66/Instant-Translator-Bot" target="_blank">GitHub</a>)</p>
              </li>
 
             <li style="padding: 5px;">
-              <h4> Gitify : Web Application</h4>
+              <h4> <a href="https://gitify-demo.netlify.app/" target="_blank">Gitify : Web Application</a></h4>
              <p style="padding-top: 0px;"><strong>Live demo</strong> : Deployed on Netlify
-                (<a href="https://gitify-demo.netlify.app/" target="_blank">Gitify Demo</a>)</p>
+                (<a href="https://gitify-demo.netlify.app/" target="_blank">Gitify</a>)</p>
              <p ><strong>Stacks</strong>: VueJs, JavaScript, BoostrapVue, GitHub API's.
                 (<a href="https://github.com/Shahibur66/Gitify" target="_blank">GitHub</a>)</p>
              </li>
 
             <li style="padding: 5px;">
-              <h4> BVSA : Bangla Voice Search Assistant</h4>
+              <h4><a href="https://tinyurl.com/yxz4ykbq" target="_blank">BVSA : Bangla Voice Search Assistant </a></h4>
              <p style="padding-top: 0px; text-align: justify;"><strong>Stacks</strong>: SpeechRecognition, google-search, sqlite3, re, gTTS, tkinter, webbrowser, playsound
                 (<a href="https://tinyurl.com/yxz4ykbq" target="_blank">GitHub</a>)</p>
              </li>
 
             <li style="padding: 5px;">
-             <h4> MU Question Bank : Web Application</h4>
+             <h4><a href="https://github.com/Shahibur66/MU-Question-Bank-PHP-CodeIgniter" target="_blank">MU Question Bank : Web Application</a></h4>
 
             <p style="padding-top: 0px;"><strong>Stacks</strong>: PHP, MySql, CodeIgniter framework, Javascript, Ajax
                 (<a href="https://github.com/Shahibur66/MU-Question-Bank-PHP-CodeIgniter" target="_blank">GitHub</a>)</p>
@@ -55,7 +55,7 @@
              </li>
 
             <li style="padding: 5px;">
-             <h4> Trending News App : Desktop Application</h4>
+             <h4> <a href="https://github.com/Shahibur66/Trending-News-App" target="_blank">Trending News App : Desktop Application</a></h4>
 
              <p style="padding-top: 0px;"><strong>Stacks</strong>: Python, Tkinter, BeautifulSoup
                 (<a href="https://github.com/Shahibur66/Trending-News-App" target="_blank">GitHub</a>)</p>
@@ -63,7 +63,7 @@
              </li>
 
             <li style="padding: 5px;">
-             <h4> File Separator App : Desktop Application</h4>
+             <h4> <a href="https://github.com/Shahibur66/File-Separator-App" target="_blank">File Separator App : Desktop Application</a></h4>
 
              <p style="padding-top: 0px;"><strong>Stacks</strong>: Python, Python-Tkinter
                 (<a href="https://github.com/Shahibur66/File-Separator-App" target="_blank">GitHub</a>)</p>
@@ -71,7 +71,7 @@
              </li>
 
             <li style="padding: 5px;">
-             <h4>High School Management System : Desktop Application</h4>
+             <h4><a href="https://github.com/Shahibur66/High-School-Management-System" target="_blank">High School Management System : Desktop Application </a></h4>
 
              <p style="padding-top: 0px;"><strong>Stacks</strong>: Java Swing, MySql
                 (<a href="https://github.com/Shahibur66/High-School-Management-System" target="_blank">GitHub</a>)</p>
@@ -79,7 +79,6 @@
              </li>
 
           </ul>
-
 
           <!-- <p>See  on <a href="https://github.com/shahibur66" target="_blank">GitHub</a>.</p> -->
         </div>
