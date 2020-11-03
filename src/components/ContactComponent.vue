@@ -11,9 +11,10 @@
 				<ul style="padding-left: 0px;" id="ul_form" >
 
 				  <div class="container">
-				  <form name="contact" method="POST" data-netlify="true">
+				  <form name="contact" method="POST" data-netlify="true" data-netlify-honeypot="bot-field">
 				  <div class="row">
 				    <div class="col-25">
+						 <input type="hidden" name="form-name" value="ask-question" />
 				      <label for="fname"><strong>Name</strong></label>
 				    </div>
 				    <div class="col-75">
